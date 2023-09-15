@@ -1,6 +1,8 @@
 from bs4 import BeautifulSoup
 import requests
-from pprint import pprint
+from time import time
+
+
 class Scraping:
     def __init__(self, language= 'english'):
         self.language = language.lower()
@@ -8,33 +10,35 @@ class Scraping:
         
         self.main_language = 'english'
     
-    def _get_data_about_topic(self, url):
+    def _get_data_about_topic(self, url, content_id):
         text = ''
         response = requests.get(url)
         
         if response.status_code == 200:
             soup = BeautifulSoup(response.text, 'html5lib')
-            government_texts = soup.find_all('p')
+            government_related_tag = soup.find('div', {'class': content_id})
+            if government_related_tag is None:
+                return ''
+            print(government_related_tag)
+            government_texts = government_related_tag.find_all('p')
             for data in government_texts:
                 text += data.get_text()
                 
         return text
             
     
-    def _get_heading_from_url(self, url):
+    def _get_heading_from_url(self, url, href_id, content_id):
         text = ''
         response = requests.get(url)
         
         if response.status_code == 200:
             
             soup = BeautifulSoup(response.text, 'html5lib')
-            government_hrefs = soup.find('div', {'class': 'bolly-news-listing'})
+            government_hrefs = soup.find_all('a', {'class': href_id})
             
-            government_hrefs = government_hrefs.find_all('a')
             for hrefs in government_hrefs:
-                print(hrefs)
                 data_url = hrefs['href']
-                text += self.get_data_about_topic(data_url)
+                text += self._get_data_about_topic(data_url, content_id)
             
             return text
 
@@ -55,8 +59,8 @@ class Scraping:
     def get_site_name_from_txt(self):
         
         with open(self.text_file, 'r') as f:
-            url = f.readline()
-            content = self.get_heading_from_url(url)
+            url, href_id, content_id = f.readline().split(',')
+            content = self._get_heading_from_url(url, href_id, content_id)
             
             if not (self.language == self.main_language):
                 content = self._translate_from_regional_to_english(content)
@@ -67,7 +71,10 @@ class Scraping:
         
         
         
-        
+start = time()    
 scraper = Scraping("english")
 
 scraper.get_site_name_from_txt()
+end = time()
+
+print(f"Time taken: {start-end}")
