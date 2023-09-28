@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 from nltk.corpus import stopwords
 import re
+import joblib
 
 class Keywords:
     def __init__(self):
@@ -34,4 +35,6 @@ class Keywords:
 
 ke = Keywords()
 
-ke.content_from_url()
+keywords = ke.content_from_url()
+
+joblib.dump(keywords, 'keywords')

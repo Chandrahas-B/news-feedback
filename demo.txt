@@ -1,0 +1,280 @@
+As schools across India shut during the COVID-19 pandemic, the country’s dropout rate more than tripled—from 1.8 percent in 2018 to a staggering 5.3 percent in 2020. This predominantly impacted children hailing from marginalised communities, exacerbating existing inequalities.
+
+
+Scores: {'Government': [{'label': 'Negative', 'score': 0.48602214455604553}], 'India': [{'label': 'Negative', 'score': 0.5719221234321594}], 'Society': [{'label': 'Negative', 'score': 0.5150920152664185}], 'Bureau': [{'label': 'Negative', 'score': 0.4913179278373718}]}
+
+
+
+Allowing forests to regenerate on their own has been championed as a strategy for reducing planet-heating carbon in the atmosphere while also boosting biodiversity, the benefits ecosystems offer and even the fruitfulness of livelihoods.
+
+
+Scores: {'Government': [{'label': 'Neutral', 'score': 0.6987022161483765}], 'India': [{'label': 'Positive', 'score': 0.5668805241584778}], 'Society': [{'label': 'Neutral', 'score': 0.6507982611656189}], 'Bureau': [{'label': 'Neutral', 'score': 0.6659368872642517}]}
+
+
+
+Flavia Agnes is a women’s rights lawyer and feminist legal scholar. One of the central figures of the women’s movement in India, she spent four decades championing women’s rights, legal reform, and legal pluralism—campaigns that eventually led to amendments in law and procedural improvements in the criminal justice system.
+
+
+Scores: {'Government': [{'label': 'Positive', 'score': 0.6650868058204651}], 'India': [{'label': 'Positive', 'score': 0.8142470717430115}], 'Society': [{'label': 'Positive', 'score': 0.7068437337875366}], 'Bureau': [{'label': 'Positive', 'score': 0.6614468693733215}]}
+
+
+
+Stalin Dayanand is an environmentalist who has spent two decades building citizen movements to protect wetlands and forests in Maharashtra. Environmental litigation, environmental education, and ground-level conservation are the planks of his activities. The director of Vanashakti—a conservation nonprofit in Mumbai—Stalin has been at the forefront of several environmental campaigns. These include the Save Aarey movement, the protest to protect Sindhudurg’s forests from mining, the Save Ulhas River project, and the pushback against constructing an international airport on wetlands in Navi Mumbai.       
+
+
+Scores: {'Government': [{'label': 'Positive', 'score': 0.8246426582336426}], 'India': [{'label': 'Positive', 'score': 0.8757479786872864}], 'Society': [{'label': 'Positive', 'score': 0.8533975481987}], 'Bureau': [{'label': 'Positive', 'score': 0.8250753879547119}]}
+
+
+
+In the year 2022, India saw 314 days of extreme weather events, including heavy rains, floods, and landslides. It is estimated that approximately 2 million hectares of cropland and 4.2 lakh houses were damaged last year alone. According to an analysis by the World Meteorological Organization, approximately 1,38,377 Indians have died between 1970 and 2021 in 573 climate-related disasters—the second-highest number in Asia. As such events and their effects on humanity become more pronounced, preparing for disasters and building resilient systems becomes essential. But as we witnessed during the pandemic, many of our systems—including health and service delivery—weren’t equipped to deal with the challenges.
+
+
+Scores: {'Government': [{'label': 'Neutral', 'score': 0.48575544357299805}], 'India': [{'label': 'Negative', 'score': 0.4695126712322235}], 'Society': [{'label': 'Neutral', 'score': 0.4707234799861908}], 'Bureau': [{'label': 'Neutral', 'score': 0.4611973166465759}]}
+
+
+
+India, renowned for its diverse landscapes and communities, has nearly a quarter of its territory as communal or common lands. These encompass a range of areas such as grazing pastures, village commons, and community forests, all collectively used and managed by local communities. This subtle yet pivotal role significantly contributes to sustaining rural livelihoods, biodiversity, and ecological balance.
+
+
+Scores: {'Government': [{'label': 'Positive', 'score': 0.7054023146629333}], 'India': [{'label': 'Positive', 'score': 0.8310948014259338}], 'Society': [{'label': 'Positive', 'score': 0.7247399091720581}], 'Bureau': [{'label': 'Positive', 'score': 0.6887920498847961}]}
+
+
+
+According to the 2011 census, India has more than 2.68 crore persons with disabilities (PwDs). The Rights of Persons with Disabilities (RPwD) Act, 2016, places responsibility upon the government to enact effective measures that can ensure equal rights for PwDs. The measures would need to provide social protection to PwDs, which can help them overcome inequalities stemming from reduced employment opportunities, added costs associated with disabilities, decreased economic resilience, and other related factors.
+
+
+Scores: {'Government': [{'label': 'Neutral', 'score': 0.579646110534668}], 'India': [{'label': 'Positive', 'score': 0.4822239577770233}], 'Society': [{'label': 'Neutral', 'score': 0.5673229694366455}], 'Bureau': [{'label': 'Neutral', 'score': 0.5823430418968201}]}
+
+
+
+View the entire series here.
+
+
+Scores: {'Government': [{'label': 'Neutral', 'score': 0.6941589117050171}], 'India': [{'label': 'Positive', 'score': 0.5892499089241028}], 'Society': [{'label': 'Neutral', 'score': 0.6698493361473083}], 'Bureau': [{'label': 'Neutral', 'score': 0.6694380640983582}]}
+
+
+
+Selvi* resides in a low-income settlement in Bengaluru, and the process of accessing water in her home involves a series of events—waiting for valve men to turn on the valves at the Cauvery grid, which supplies water to her neighbourhood; negotiating with neighbours on the sequencing of water motors; ensuring adequate water pressure; and finally the collection and storage of water. Selvi ends up spending approximately 22 percent of her monthly income of INR 10,000 on accessing basic infrastructural facilities. Out of this, a significant amount is spent on daily repairs to enable the delivery of water. This includes expenses for the regular maintenance of the Cauvery water grid and local borewell water grids, which constitutes the repair of water pumps and leakages on the pipelines. On the days when regular water supply is disrupted, Selvi bears the additional costs of the water tanker and water ATMs. She incurs similar expenses for regular fixing of the sewerage system, the electricity system, and the drainage system in her neighbourhood. The other, often hidden and unpredictable, factor is the time required to organise the people and the systems for repair and how this affects Selvi’s ability to complete her household duties in time to get her children to school and herself to work on time. There are times when she is late or unable to make it to work at all, and she dreads such days that put her at risk of losing her job. For Selvi, and other women residing in similar low-income neighbourhoods, these repair expenses are burdensome in more ways than one.
+
+
+Scores: {'Government': [{'label': 'Neutral', 'score': 0.41510167717933655}], 'India': [{'label': 'Neutral', 'score': 0.4078948497772217}], 'Society': [{'label': 'Neutral', 'score': 0.40220287442207336}], 'Bureau': [{'label': 'Neutral', 'score': 0.4062410593032837}]}
+
+
+
+Ten years have passed since the National Food Security Act gave all pregnant women a right to maternity benefits. This was the most radical provision of the Act, even if the initial benefits were small—just Rs 6,000 per child. It affirms the fact that any pregnant woman may require some social support to face the contingencies of pregnancy and child birth. Very few developing countries have adopted this progressive approach to maternity entitlements.
+
+
+Scores: {'Government': [{'label': 'Positive', 'score': 0.6571652293205261}], 'India': [{'label': 'Positive', 'score': 0.7599834203720093}], 'Society': [{'label': 'Positive', 'score': 0.6887261867523193}], 'Bureau': [{'label': 'Positive', 'score': 0.6871005296707153}]}
+
+
+
+As schools across India shut during the COVID-19 pandemic, the country’s dropout rate more than tripled—from 1.8 percent in 2018 to a staggering 5.3 percent in 2020. This predominantly impacted children hailing from marginalised communities, exacerbating existing inequalities.
+
+
+Scores: {'Government': [{'label': 'Negative', 'score': 0.48602214455604553}], 'India': [{'label': 'Negative', 'score': 0.5719221234321594}], 'Society': [{'label': 'Negative', 'score': 0.5150920152664185}], 'Bureau': [{'label': 'Negative', 'score': 0.4913179278373718}]}
+
+
+
+Allowing forests to regenerate on their own has been championed as a strategy for reducing planet-heating carbon in the atmosphere while also boosting biodiversity, the benefits ecosystems offer and even the fruitfulness of livelihoods.
+
+
+Scores: {'Government': [{'label': 'Neutral', 'score': 0.6987022161483765}], 'India': [{'label': 'Positive', 'score': 0.5668805241584778}], 'Society': [{'label': 'Neutral', 'score': 0.6507982611656189}], 'Bureau': [{'label': 'Neutral', 'score': 0.6659368872642517}]}
+
+
+
+Flavia Agnes is a women’s rights lawyer and feminist legal scholar. One of the central figures of the women’s movement in India, she spent four decades championing women’s rights, legal reform, and legal pluralism—campaigns that eventually led to amendments in law and procedural improvements in the criminal justice system.
+
+
+Scores: {'Government': [{'label': 'Positive', 'score': 0.6650868058204651}], 'India': [{'label': 'Positive', 'score': 0.8142470717430115}], 'Society': [{'label': 'Positive', 'score': 0.7068437337875366}], 'Bureau': [{'label': 'Positive', 'score': 0.6614468693733215}]}
+
+
+
+Stalin Dayanand is an environmentalist who has spent two decades building citizen movements to protect wetlands and forests in Maharashtra. Environmental litigation, environmental education, and ground-level conservation are the planks of his activities. The director of Vanashakti—a conservation nonprofit in Mumbai—Stalin has been at the forefront of several environmental campaigns. These include the Save Aarey movement, the protest to protect Sindhudurg’s forests from mining, the Save Ulhas River project, and the pushback against constructing an international airport on wetlands in Navi Mumbai.       
+
+
+Scores: {'Government': [{'label': 'Positive', 'score': 0.8246426582336426}], 'India': [{'label': 'Positive', 'score': 0.8757479786872864}], 'Society': [{'label': 'Positive', 'score': 0.8533975481987}], 'Bureau': [{'label': 'Positive', 'score': 0.8250753879547119}]}
+
+
+
+In the year 2022, India saw 314 days of extreme weather events, including heavy rains, floods, and landslides. It is estimated that approximately 2 million hectares of cropland and 4.2 lakh houses were damaged last year alone. According to an analysis by the World Meteorological Organization, approximately 1,38,377 Indians have died between 1970 and 2021 in 573 climate-related disasters—the second-highest number in Asia. As such events and their effects on humanity become more pronounced, preparing for disasters and building resilient systems becomes essential. But as we witnessed during the pandemic, many of our systems—including health and service delivery—weren’t equipped to deal with the challenges.
+
+
+Scores: {'Government': [{'label': 'Neutral', 'score': 0.48575544357299805}], 'India': [{'label': 'Negative', 'score': 0.4695126712322235}], 'Society': [{'label': 'Neutral', 'score': 0.4707234799861908}], 'Bureau': [{'label': 'Neutral', 'score': 0.4611973166465759}]}
+
+
+
+India, renowned for its diverse landscapes and communities, has nearly a quarter of its territory as communal or common lands. These encompass a range of areas such as grazing pastures, village commons, and community forests, all collectively used and managed by local communities. This subtle yet pivotal role significantly contributes to sustaining rural livelihoods, biodiversity, and ecological balance.
+
+
+Scores: {'Government': [{'label': 'Positive', 'score': 0.7054023146629333}], 'India': [{'label': 'Positive', 'score': 0.8310948014259338}], 'Society': [{'label': 'Positive', 'score': 0.7247399091720581}], 'Bureau': [{'label': 'Positive', 'score': 0.6887920498847961}]}
+
+
+
+According to the 2011 census, India has more than 2.68 crore persons with disabilities (PwDs). The Rights of Persons with Disabilities (RPwD) Act, 2016, places responsibility upon the government to enact effective measures that can ensure equal rights for PwDs. The measures would need to provide social protection to PwDs, which can help them overcome inequalities stemming from reduced employment opportunities, added costs associated with disabilities, decreased economic resilience, and other related factors.
+
+
+Scores: {'Government': [{'label': 'Neutral', 'score': 0.579646110534668}], 'India': [{'label': 'Positive', 'score': 0.4822239577770233}], 'Society': [{'label': 'Neutral', 'score': 0.5673229694366455}], 'Bureau': [{'label': 'Neutral', 'score': 0.5823430418968201}]}
+
+
+
+View the entire series here.
+
+
+Scores: {'Government': [{'label': 'Neutral', 'score': 0.6941589117050171}], 'India': [{'label': 'Positive', 'score': 0.5892499089241028}], 'Society': [{'label': 'Neutral', 'score': 0.6698493361473083}], 'Bureau': [{'label': 'Neutral', 'score': 0.6694380640983582}]}
+
+
+
+Selvi* resides in a low-income settlement in Bengaluru, and the process of accessing water in her home involves a series of events—waiting for valve men to turn on the valves at the Cauvery grid, which supplies water to her neighbourhood; negotiating with neighbours on the sequencing of water motors; ensuring adequate water pressure; and finally the collection and storage of water. Selvi ends up spending approximately 22 percent of her monthly income of INR 10,000 on accessing basic infrastructural facilities. Out of this, a significant amount is spent on daily repairs to enable the delivery of water. This includes expenses for the regular maintenance of the Cauvery water grid and local borewell water grids, which constitutes the repair of water pumps and leakages on the pipelines. On the days when regular water supply is disrupted, Selvi bears the additional costs of the water tanker and water ATMs. She incurs similar expenses for regular fixing of the sewerage system, the electricity system, and the drainage system in her neighbourhood. The other, often hidden and unpredictable, factor is the time required to organise the people and the systems for repair and how this affects Selvi’s ability to complete her household duties in time to get her children to school and herself to work on time. There are times when she is late or unable to make it to work at all, and she dreads such days that put her at risk of losing her job. For Selvi, and other women residing in similar low-income neighbourhoods, these repair expenses are burdensome in more ways than one.
+
+
+Scores: {'Government': [{'label': 'Neutral', 'score': 0.41510167717933655}], 'India': [{'label': 'Neutral', 'score': 0.4078948497772217}], 'Society': [{'label': 'Neutral', 'score': 0.40220287442207336}], 'Bureau': [{'label': 'Neutral', 'score': 0.4062410593032837}]}
+
+
+
+Ten years have passed since the National Food Security Act gave all pregnant women a right to maternity benefits. This was the most radical provision of the Act, even if the initial benefits were small—just Rs 6,000 per child. It affirms the fact that any pregnant woman may require some social support to face the contingencies of pregnancy and child birth. Very few developing countries have adopted this progressive approach to maternity entitlements.
+
+
+Scores: {'Government': [{'label': 'Positive', 'score': 0.6571652293205261}], 'India': [{'label': 'Positive', 'score': 0.7599834203720093}], 'Society': [{'label': 'Positive', 'score': 0.6887261867523193}], 'Bureau': [{'label': 'Positive', 'score': 0.6871005296707153}]}
+
+
+
+As schools across India shut during the COVID-19 pandemic, the country’s dropout rate more than tripled—from 1.8 percent in 2018 to a staggering 5.3 percent in 2020. This predominantly impacted children hailing from marginalised communities, exacerbating existing inequalities.
+
+
+Scores: {'Government': [{'label': 'Negative', 'score': 0.48602214455604553}], 'India': [{'label': 'Negative', 'score': 0.5719221234321594}], 'Society': [{'label': 'Negative', 'score': 0.5150920152664185}], 'Bureau': [{'label': 'Negative', 'score': 0.4913179278373718}]}
+
+
+
+Allowing forests to regenerate on their own has been championed as a strategy for reducing planet-heating carbon in the atmosphere while also boosting biodiversity, the benefits ecosystems offer and even the fruitfulness of livelihoods.
+
+
+Scores: {'Government': [{'label': 'Neutral', 'score': 0.6987022161483765}], 'India': [{'label': 'Positive', 'score': 0.5668805241584778}], 'Society': [{'label': 'Neutral', 'score': 0.6507982611656189}], 'Bureau': [{'label': 'Neutral', 'score': 0.6659368872642517}]}
+
+
+
+Flavia Agnes is a women’s rights lawyer and feminist legal scholar. One of the central figures of the women’s movement in India, she spent four decades championing women’s rights, legal reform, and legal pluralism—campaigns that eventually led to amendments in law and procedural improvements in the criminal justice system.
+
+
+Scores: {'Government': [{'label': 'Positive', 'score': 0.6650868058204651}], 'India': [{'label': 'Positive', 'score': 0.8142470717430115}], 'Society': [{'label': 'Positive', 'score': 0.7068437337875366}], 'Bureau': [{'label': 'Positive', 'score': 0.6614468693733215}]}
+
+
+
+Stalin Dayanand is an environmentalist who has spent two decades building citizen movements to protect wetlands and forests in Maharashtra. Environmental litigation, environmental education, and ground-level conservation are the planks of his activities. The director of Vanashakti—a conservation nonprofit in Mumbai—Stalin has been at the forefront of several environmental campaigns. These include the Save Aarey movement, the protest to protect Sindhudurg’s forests from mining, the Save Ulhas River project, and the pushback against constructing an international airport on wetlands in Navi Mumbai.       
+
+
+Scores: {'Government': [{'label': 'Positive', 'score': 0.8246426582336426}], 'India': [{'label': 'Positive', 'score': 0.8757479786872864}], 'Society': [{'label': 'Positive', 'score': 0.8533975481987}], 'Bureau': [{'label': 'Positive', 'score': 0.8250753879547119}]}
+
+
+
+In the year 2022, India saw 314 days of extreme weather events, including heavy rains, floods, and landslides. It is estimated that approximately 2 million hectares of cropland and 4.2 lakh houses were damaged last year alone. According to an analysis by the World Meteorological Organization, approximately 1,38,377 Indians have died between 1970 and 2021 in 573 climate-related disasters—the second-highest number in Asia. As such events and their effects on humanity become more pronounced, preparing for disasters and building resilient systems becomes essential. But as we witnessed during the pandemic, many of our systems—including health and service delivery—weren’t equipped to deal with the challenges.
+
+
+Scores: {'Government': [{'label': 'Neutral', 'score': 0.48575544357299805}], 'India': [{'label': 'Negative', 'score': 0.4695126712322235}], 'Society': [{'label': 'Neutral', 'score': 0.4707234799861908}], 'Bureau': [{'label': 'Neutral', 'score': 0.4611973166465759}]}
+
+
+
+India, renowned for its diverse landscapes and communities, has nearly a quarter of its territory as communal or common lands. These encompass a range of areas such as grazing pastures, village commons, and community forests, all collectively used and managed by local communities. This subtle yet pivotal role significantly contributes to sustaining rural livelihoods, biodiversity, and ecological balance.
+
+
+Scores: {'Government': [{'label': 'Positive', 'score': 0.7054023146629333}], 'India': [{'label': 'Positive', 'score': 0.8310948014259338}], 'Society': [{'label': 'Positive', 'score': 0.7247399091720581}], 'Bureau': [{'label': 'Positive', 'score': 0.6887920498847961}]}
+
+
+
+According to the 2011 census, India has more than 2.68 crore persons with disabilities (PwDs). The Rights of Persons with Disabilities (RPwD) Act, 2016, places responsibility upon the government to enact effective measures that can ensure equal rights for PwDs. The measures would need to provide social protection to PwDs, which can help them overcome inequalities stemming from reduced employment opportunities, added costs associated with disabilities, decreased economic resilience, and other related factors.
+
+
+Scores: {'Government': [{'label': 'Neutral', 'score': 0.579646110534668}], 'India': [{'label': 'Positive', 'score': 0.4822239577770233}], 'Society': [{'label': 'Neutral', 'score': 0.5673229694366455}], 'Bureau': [{'label': 'Neutral', 'score': 0.5823430418968201}]}
+
+
+
+View the entire series here.
+
+
+Scores: {'Government': [{'label': 'Neutral', 'score': 0.6941589117050171}], 'India': [{'label': 'Positive', 'score': 0.5892499089241028}], 'Society': [{'label': 'Neutral', 'score': 0.6698493361473083}], 'Bureau': [{'label': 'Neutral', 'score': 0.6694380640983582}]}
+
+
+
+Selvi* resides in a low-income settlement in Bengaluru, and the process of accessing water in her home involves a series of events—waiting for valve men to turn on the valves at the Cauvery grid, which supplies water to her neighbourhood; negotiating with neighbours on the sequencing of water motors; ensuring adequate water pressure; and finally the collection and storage of water. Selvi ends up spending approximately 22 percent of her monthly income of INR 10,000 on accessing basic infrastructural facilities. Out of this, a significant amount is spent on daily repairs to enable the delivery of water. This includes expenses for the regular maintenance of the Cauvery water grid and local borewell water grids, which constitutes the repair of water pumps and leakages on the pipelines. On the days when regular water supply is disrupted, Selvi bears the additional costs of the water tanker and water ATMs. She incurs similar expenses for regular fixing of the sewerage system, the electricity system, and the drainage system in her neighbourhood. The other, often hidden and unpredictable, factor is the time required to organise the people and the systems for repair and how this affects Selvi’s ability to complete her household duties in time to get her children to school and herself to work on time. There are times when she is late or unable to make it to work at all, and she dreads such days that put her at risk of losing her job. For Selvi, and other women residing in similar low-income neighbourhoods, these repair expenses are burdensome in more ways than one.
+
+
+Scores: {'Government': [{'label': 'Neutral', 'score': 0.41510167717933655}], 'India': [{'label': 'Neutral', 'score': 0.4078948497772217}], 'Society': [{'label': 'Neutral', 'score': 0.40220287442207336}], 'Bureau': [{'label': 'Neutral', 'score': 0.4062410593032837}]}
+
+
+
+Ten years have passed since the National Food Security Act gave all pregnant women a right to maternity benefits. This was the most radical provision of the Act, even if the initial benefits were small—just Rs 6,000 per child. It affirms the fact that any pregnant woman may require some social support to face the contingencies of pregnancy and child birth. Very few developing countries have adopted this progressive approach to maternity entitlements.
+
+
+Scores: {'Government': [{'label': 'Positive', 'score': 0.6571652293205261}], 'India': [{'label': 'Positive', 'score': 0.7599834203720093}], 'Society': [{'label': 'Positive', 'score': 0.6887261867523193}], 'Bureau': [{'label': 'Positive', 'score': 0.6871005296707153}]}
+
+
+
+As schools across India shut during the COVID-19 pandemic, the country’s dropout rate more than tripled—from 1.8 percent in 2018 to a staggering 5.3 percent in 2020. This predominantly impacted children hailing from marginalised communities, exacerbating existing inequalities.
+
+
+Scores: {'Government': [{'label': 'Negative', 'score': 0.48602214455604553}], 'India': [{'label': 'Negative', 'score': 0.5719221234321594}], 'Society': [{'label': 'Negative', 'score': 0.5150920152664185}], 'Bureau': [{'label': 'Negative', 'score': 0.4913179278373718}]}
+
+
+
+Allowing forests to regenerate on their own has been championed as a strategy for reducing planet-heating carbon in the atmosphere while also boosting biodiversity, the benefits ecosystems offer and even the fruitfulness of livelihoods.
+
+
+Scores: {'Government': [{'label': 'Neutral', 'score': 0.6987022161483765}], 'India': [{'label': 'Positive', 'score': 0.5668805241584778}], 'Society': [{'label': 'Neutral', 'score': 0.6507982611656189}], 'Bureau': [{'label': 'Neutral', 'score': 0.6659368872642517}]}
+
+
+
+Flavia Agnes is a women’s rights lawyer and feminist legal scholar. One of the central figures of the women’s movement in India, she spent four decades championing women’s rights, legal reform, and legal pluralism—campaigns that eventually led to amendments in law and procedural improvements in the criminal justice system.
+
+
+Scores: {'Government': [{'label': 'Positive', 'score': 0.6650868058204651}], 'India': [{'label': 'Positive', 'score': 0.8142470717430115}], 'Society': [{'label': 'Positive', 'score': 0.7068437337875366}], 'Bureau': [{'label': 'Positive', 'score': 0.6614468693733215}]}
+
+
+
+Stalin Dayanand is an environmentalist who has spent two decades building citizen movements to protect wetlands and forests in Maharashtra. Environmental litigation, environmental education, and ground-level conservation are the planks of his activities. The director of Vanashakti—a conservation nonprofit in Mumbai—Stalin has been at the forefront of several environmental campaigns. These include the Save Aarey movement, the protest to protect Sindhudurg’s forests from mining, the Save Ulhas River project, and the pushback against constructing an international airport on wetlands in Navi Mumbai.       
+
+
+Scores: {'Government': [{'label': 'Positive', 'score': 0.8246426582336426}], 'India': [{'label': 'Positive', 'score': 0.8757479786872864}], 'Society': [{'label': 'Positive', 'score': 0.8533975481987}], 'Bureau': [{'label': 'Positive', 'score': 0.8250753879547119}]}
+
+
+
+In the year 2022, India saw 314 days of extreme weather events, including heavy rains, floods, and landslides. It is estimated that approximately 2 million hectares of cropland and 4.2 lakh houses were damaged last year alone. According to an analysis by the World Meteorological Organization, approximately 1,38,377 Indians have died between 1970 and 2021 in 573 climate-related disasters—the second-highest number in Asia. As such events and their effects on humanity become more pronounced, preparing for disasters and building resilient systems becomes essential. But as we witnessed during the pandemic, many of our systems—including health and service delivery—weren’t equipped to deal with the challenges.
+
+
+Scores: {'Government': [{'label': 'Neutral', 'score': 0.48575544357299805}], 'India': [{'label': 'Negative', 'score': 0.4695126712322235}], 'Society': [{'label': 'Neutral', 'score': 0.4707234799861908}], 'Bureau': [{'label': 'Neutral', 'score': 0.4611973166465759}]}
+
+
+
+India, renowned for its diverse landscapes and communities, has nearly a quarter of its territory as communal or common lands. These encompass a range of areas such as grazing pastures, village commons, and community forests, all collectively used and managed by local communities. This subtle yet pivotal role significantly contributes to sustaining rural livelihoods, biodiversity, and ecological balance.
+
+
+Scores: {'Government': [{'label': 'Positive', 'score': 0.7054023146629333}], 'India': [{'label': 'Positive', 'score': 0.8310948014259338}], 'Society': [{'label': 'Positive', 'score': 0.7247399091720581}], 'Bureau': [{'label': 'Positive', 'score': 0.6887920498847961}]}
+
+
+
+According to the 2011 census, India has more than 2.68 crore persons with disabilities (PwDs). The Rights of Persons with Disabilities (RPwD) Act, 2016, places responsibility upon the government to enact effective measures that can ensure equal rights for PwDs. The measures would need to provide social protection to PwDs, which can help them overcome inequalities stemming from reduced employment opportunities, added costs associated with disabilities, decreased economic resilience, and other related factors.
+
+
+Scores: {'Government': [{'label': 'Neutral', 'score': 0.579646110534668}], 'India': [{'label': 'Positive', 'score': 0.4822239577770233}], 'Society': [{'label': 'Neutral', 'score': 0.5673229694366455}], 'Bureau': [{'label': 'Neutral', 'score': 0.5823430418968201}]}
+
+
+
+View the entire series here.
+
+
+Scores: {'Government': [{'label': 'Neutral', 'score': 0.6941589117050171}], 'India': [{'label': 'Positive', 'score': 0.5892499089241028}], 'Society': [{'label': 'Neutral', 'score': 0.6698493361473083}], 'Bureau': [{'label': 'Neutral', 'score': 0.6694380640983582}]}
+
+
+
+Selvi* resides in a low-income settlement in Bengaluru, and the process of accessing water in her home involves a series of events—waiting for valve men to turn on the valves at the Cauvery grid, which supplies water to her neighbourhood; negotiating with neighbours on the sequencing of water motors; ensuring adequate water pressure; and finally the collection and storage of water. Selvi ends up spending approximately 22 percent of her monthly income of INR 10,000 on accessing basic infrastructural facilities. Out of this, a significant amount is spent on daily repairs to enable the delivery of water. This includes expenses for the regular maintenance of the Cauvery water grid and local borewell water grids, which constitutes the repair of water pumps and leakages on the pipelines. On the days when regular water supply is disrupted, Selvi bears the additional costs of the water tanker and water ATMs. She incurs similar expenses for regular fixing of the sewerage system, the electricity system, and the drainage system in her neighbourhood. The other, often hidden and unpredictable, factor is the time required to organise the people and the systems for repair and how this affects Selvi’s ability to complete her household duties in time to get her children to school and herself to work on time. There are times when she is late or unable to make it to work at all, and she dreads such days that put her at risk of losing her job. For Selvi, and other women residing in similar low-income neighbourhoods, these repair expenses are burdensome in more ways than one.
+
+
+Scores: {'Government': [{'label': 'Neutral', 'score': 0.41510167717933655}], 'India': [{'label': 'Neutral', 'score': 0.4078948497772217}], 'Society': [{'label': 'Neutral', 'score': 0.40220287442207336}], 'Bureau': [{'label': 'Neutral', 'score': 0.4062410593032837}]}
+
+
+
+Ten years have passed since the National Food Security Act gave all pregnant women a right to maternity benefits. This was the most radical provision of the Act, even if the initial benefits were small—just Rs 6,000 per child. It affirms the fact that any pregnant woman may require some social support to face the contingencies of pregnancy and child birth. Very few developing countries have adopted this progressive approach to maternity entitlements.
+
+
+Scores: {'Government': [{'label': 'Positive', 'score': 0.6571652293205261}], 'India': [{'label': 'Positive', 'score': 0.7599834203720093}], 'Society': [{'label': 'Positive', 'score': 0.6887261867523193}], 'Bureau': [{'label': 'Positive', 'score': 0.6871005296707153}]}
+
+
+
