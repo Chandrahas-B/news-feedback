@@ -4,30 +4,42 @@ from tqdm import tqdm
 from time import time
 from sentiment import sentiment
 import json
-
+import joblib 
+from nltk.corpus import stopwords
 
 class Scraping:
     def __init__(self, language= 'english', count = 10):
         self.count = count
         self.language = language.lower()
-        self.text_file = self.language + ".txt"
+        self.text_file = "Scraping sites/" + self.language + ".txt"
         self.jsons = []
+        self.stopwords = stopwords.words('english')
         
         self.main_language = 'english'
     
-    def json_for_kv_and_text(self, k_v, text, url):
+    def json_for_kv_and_text(self, k_v, text, url, article_name):
         jsonContent = {}
         jsonContent['id'] = len(self.jsons)
         jsonContent['content'] = text
-        jsonContent['tonality'] = k_v['Government'][0]['label']
+        jsonContent['tonality'] = k_v[next(iter(k_v))][0]['label']
         jsonContent['time'] = time()
-        jsonContent['article'] = url.split('.')[1]
+        jsonContent['article'] = article_name.lstrip()[:60]+ '...'
+        jsonContent['url'] = url
+        keywords_file = joblib.load('Keywords/keywords')
+        import random
+        keywords = set()
+        for _ in range(5):
+            word = random.choice(list(keywords_file))
+            if word in self.stopwords:
+                word = random.choice(list(keywords_file))
+            keywords.add(word)
+        jsonContent['keywords'] = list(keywords)
         
         return jsonContent
         
         
     
-    def _get_data_about_topic(self, url, content_selector):
+    def _get_data_about_topic(self, url, content_selector, article_name):
         text = ''
         response = requests.get(url)
         
@@ -39,19 +51,23 @@ class Scraping:
                 break
         k_v_pairs = self.get_sentiment_scores(text)
         
-        jsonContent = self.json_for_kv_and_text(k_v_pairs, text, url)
+        jsonContent = self.json_for_kv_and_text(k_v_pairs, text, url, article_name)
         self.jsons.append(jsonContent)
         
-        with open('demo.txt', 'a') as f:
-            f.write(text)
-            f.write(f"\n\n\nScores: {k_v_pairs}\n\n\n\n")
+        # with open('demo.txt', 'w') as f:
+        #     f.write(text)
+        #     f.write(f"\n\n\nScores: {k_v_pairs}\n\n\n\n")
         
         
         return text
             
     def get_sentiment_scores(self, text):
-        # keywords = joblib.load('keywords')
-        k_v_pairs = sentiment(text, ['Government', 'India', 'Society', 'Bureau'])
+        keywords_file = joblib.load('Keywords/keywords')
+        import random
+        keywords = set()
+        for _ in range(5):
+            keywords.add(random.choice(list(keywords_file)))
+        k_v_pairs = sentiment(text, keywords)
         
         return k_v_pairs
         
@@ -68,13 +84,14 @@ class Scraping:
             count = 0
             data_urls = set()
             for hrefs in tqdm(government_hrefs, total= self.count):
+                article_name = hrefs.get_text()
                 data_url = hrefs['href']
                 if data_url in data_urls:
                     continue
                 
                 data_urls.add(data_url)
                 count += 1
-                text += self._get_data_about_topic(data_url, content_selector)
+                text += self._get_data_about_topic(data_url, content_selector, article_name)
                 if count == self.count:
                     break
             return text
@@ -114,7 +131,7 @@ start = time()
 scraper.get_site_name_from_txt()
 end = time()
 
-with open('sample.json', 'w') as f:
+with open('scraped/webscraping.json', 'a') as f:
             json.dump(scraper.jsons, f)
 
 print(f"Time taken: {end-start}")

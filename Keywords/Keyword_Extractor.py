@@ -3,6 +3,7 @@ import requests
 from nltk.corpus import stopwords
 import re
 import joblib
+import insert_headings_mongo
 
 class Keywords:
     def __init__(self):
@@ -14,20 +15,17 @@ class Keywords:
         response = requests.get(url)
         
         if response.status_code == 200:
-            s = set()
             content = response.text
             soup = BeautifulSoup(content, 'html5lib')
-            content = soup.find_all('ul', {'class': 'num'})
-            for keywords in content:
-                keywords = keywords.get_text()
-                keywords = re.sub('[!:,.!@#$%()]', '', keywords)
-                keywords = keywords.split()
-                for keyword in keywords:
-                    keyword = keyword if keyword not in self.stop_words and not keyword.isdigit() else None
-                    if keyword:
-                        keyword = keyword.lower()
-                        s.add(keyword)
-            return s
+            pib_topic_releases = soup.find_all('ul', {'class': 'num'})
+            
+            for pib_release in pib_topic_releases:
+                releases = pib_release.find_all('li')
+                for release in releases:
+                    news_heading = release.get_text()
+                    insertion = insert_headings_mongo.insert_document_to_collection(news_heading)
+                    print(insertion)               
+            
         
         return None
             
