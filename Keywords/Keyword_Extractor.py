@@ -23,7 +23,7 @@ class Keywords:
                 releases = pib_release.find_all('li')
                 for release in releases:
                     news_heading = release.get_text()
-                    insertion = insert_headings_mongo.insert_document_to_collection(news_heading)
+                    insertion = insert_headings_mongo.insert_document_to_pib_releases(news_heading)
                     print(insertion)               
             
         
