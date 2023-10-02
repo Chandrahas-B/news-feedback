@@ -3,14 +3,14 @@ import datetime
 import pytz
 
 
-client = MongoClient("localhost", 27017)
+client = MongoClient("localhost", 27017, username='root', password='example')
 
 
 db = client["PIB"]
 
 pib_releases = db['PIB Releases']
 
-def insert_document_to_collection(pib_heading: str) -> bool:
+def insert_document_to_pib_releases(pib_heading: str) -> bool:
     tz = pytz.timezone('Asia/Kolkata')
     post = {
         "author": pib_heading,
